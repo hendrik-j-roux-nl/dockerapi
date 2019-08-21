@@ -1,0 +1,14 @@
+D:\Source_Repos\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.deps.json
+D:\Source_Repos\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.runtimeconfig.json
+D:\Source_Repos\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.runtimeconfig.dev.json
+D:\Source_Repos\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.dll
+D:\Source_Repos\DockerAPI\bin\Debug\netcoreapp2.1\DockerAPI.pdb
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.csprojAssemblyReference.cache
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.csproj.CoreCompileInputs.cache
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorAssemblyInfo.cache
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorAssemblyInfo.cs
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.AssemblyInfoInputs.cache
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.AssemblyInfo.cs
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.RazorTargetAssemblyInfo.cache
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.dll
+D:\Source_Repos\DockerAPI\obj\Debug\netcoreapp2.1\DockerAPI.pdb
